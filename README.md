@@ -28,8 +28,9 @@ Os registros são carregados de arquivos JSON e consultados em memória. **DinoD
 ## Como executar
 
 1. Baixe a versão distribuída do projeto.
-2. Extraia o pacote completo, preservando a estrutura de pastas.
-3. No Windows, execute `DinoDB.exe`.
+2. https://drive.google.com/file/d/1vAx7REx3Tm_I9tmos-skO6cotjCTg_tl/view (Arquivo é muito grande para o github)
+3. Extraia o pacote completo, preservando a estrutura de pastas.
+4. No Windows, execute `DinoDB.exe`.
 
 A distribuição portátil inclui o runtime Java e as dependências necessárias; **não é preciso instalar o Java separadamente**. Mantenha os arquivos do pacote junto ao executável para que o catálogo e os demais recursos funcionem corretamente.
 
